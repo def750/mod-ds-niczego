@@ -1,12 +1,10 @@
 package dev.def750.moddsniczego
 
 import dev.def750.moddsniczego.block.ModBlocks
+import dev.def750.moddsniczego.item.ModCreativeModeTabs
 import dev.def750.moddsniczego.item.ModItems
 import dev.def750.moddsniczego.sound.ModSounds
 import net.minecraft.client.Minecraft
-import net.minecraft.world.item.CreativeModeTab
-import net.minecraft.world.item.CreativeModeTabs
-import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent
 import net.neoforged.bus.api.SubscribeEvent
 import net.neoforged.fml.common.EventBusSubscriber
 import net.neoforged.fml.common.Mod
@@ -38,8 +36,8 @@ object ModDsNiczego {
         // Register the KDeferredRegister to the mod-specific event bus
         ModBlocks.REGISTRY.register(MOD_BUS)
         ModItems.REGISTRY.register(MOD_BUS)
+        ModCreativeModeTabs.REGISTRY.register(MOD_BUS)
         ModSounds.REGISTRY.register(MOD_BUS)
-        MOD_BUS.addListener(::addCreativeTabItems)
 
         val obj = runForDist(clientTarget = {
             MOD_BUS.addListener(::onClientSetup)
@@ -71,13 +69,5 @@ object ModDsNiczego {
     @SubscribeEvent
     fun onCommonSetup(event: FMLCommonSetupEvent) {
         LOGGER.log(Level.INFO, "Hello! This is working!")
-    }
-
-    private fun addCreativeTabItems(event: BuildCreativeModeTabContentsEvent) {
-        if (event.tabKey == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            ModItems.MUSIC_DISCS.values.forEach { disc ->
-                event.accept(disc.get(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS)
-            }
-        }
     }
 }
