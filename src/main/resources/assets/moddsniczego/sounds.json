@@ -1,0 +1,602 @@
+{
+  "signal": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/signal",
+        "stream": true
+      }
+    ]
+  },
+  "acid_god": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/acid_god",
+        "stream": true
+      }
+    ]
+  },
+  "lolit_speed": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/lolit_speed",
+        "stream": true
+      }
+    ]
+  },
+  "555": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/555",
+        "stream": true
+      }
+    ]
+  },
+  "materialize_anything": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/materialize_anything",
+        "stream": true
+      }
+    ]
+  },
+  "axion": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/axion",
+        "stream": true
+      }
+    ]
+  },
+  "birdy_wings": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/birdy_wings",
+        "stream": true
+      }
+    ]
+  },
+  "kannagi": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/kannagi",
+        "stream": true
+      }
+    ]
+  },
+  "black_or_white": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/black_or_white",
+        "stream": true
+      }
+    ]
+  },
+  "planet_shaper": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/planet_shaper",
+        "stream": true
+      }
+    ]
+  },
+  "blastix_riotz": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/blastix_riotz",
+        "stream": true
+      }
+    ]
+  },
+  "gregtech": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/gregtech",
+        "stream": true
+      }
+    ]
+  },
+  "cocodrilo": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/cocodrilo",
+        "stream": true
+      }
+    ]
+  },
+  "ea_nasir": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/ea_nasir",
+        "stream": true
+      }
+    ]
+  },
+  "ball_hard": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/ball_hard",
+        "stream": true
+      }
+    ]
+  },
+  "end_time": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/end_time",
+        "stream": true
+      }
+    ]
+  },
+  "titanomachia": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/titanomachia",
+        "stream": true
+      }
+    ]
+  },
+  "dimension_wars": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/dimension_wars",
+        "stream": true
+      }
+    ]
+  },
+  "joe_thunder": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/joe_thunder",
+        "stream": true
+      }
+    ]
+  },
+  "chickencore": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/chickencore",
+        "stream": true
+      }
+    ]
+  },
+  "snows": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/snows",
+        "stream": true
+      }
+    ]
+  },
+  "joe_fight": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/joe_fight",
+        "stream": true
+      }
+    ]
+  },
+  "daisycutter": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/daisycutter",
+        "stream": true
+      }
+    ]
+  },
+  "fallen_symphony": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/fallen_symphony",
+        "stream": true
+      }
+    ]
+  },
+  "firmaozo": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/firmaozo",
+        "stream": true
+      }
+    ]
+  },
+  "gengaozo": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/gengaozo",
+        "stream": true
+      }
+    ]
+  },
+  "gargoyle": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/gargoyle",
+        "stream": true
+      }
+    ]
+  },
+  "genoicider": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/genoicider",
+        "stream": true
+      }
+    ]
+  },
+  "eden": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/eden",
+        "stream": true
+      }
+    ]
+  },
+  "smutna_pani": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/smutna_pani",
+        "stream": true
+      }
+    ]
+  },
+  "hava_nagila": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/hava_nagila",
+        "stream": true
+      }
+    ]
+  },
+  "hitsugi": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/hitsugi",
+        "stream": true
+      }
+    ]
+  },
+  "mendes": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/mendes",
+        "stream": true
+      }
+    ]
+  },
+  "gwalt": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/gwalt",
+        "stream": true
+      }
+    ]
+  },
+  "makiba": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/makiba",
+        "stream": true
+      }
+    ]
+  },
+  "strong_280": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/strong_280",
+        "stream": true
+      }
+    ]
+  },
+  "tool_assisted": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/tool_assisted",
+        "stream": true
+      }
+    ]
+  },
+  "bookmaker": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/bookmaker",
+        "stream": true
+      }
+    ]
+  },
+  "last_wish": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/last_wish",
+        "stream": true
+      }
+    ]
+  },
+  "exitium": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/exitium",
+        "stream": true
+      }
+    ]
+  },
+  "dangerous_jungle": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/dangerous_jungle",
+        "stream": true
+      }
+    ]
+  },
+  "doppelganger": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/doppelganger",
+        "stream": true
+      }
+    ]
+  },
+  "lost_requiem": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/lost_requiem",
+        "stream": true
+      }
+    ]
+  },
+  "regulus": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/regulus",
+        "stream": true
+      }
+    ]
+  },
+  "bol": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/bol",
+        "stream": true
+      }
+    ]
+  },
+  "resonant": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/resonant",
+        "stream": true
+      }
+    ]
+  },
+  "silentroom": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/silentroom",
+        "stream": true
+      }
+    ]
+  },
+  "podsumowanie": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/podsumowanie",
+        "stream": true
+      }
+    ]
+  },
+  "777": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/777",
+        "stream": true
+      }
+    ]
+  },
+  "666": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/666",
+        "stream": true
+      }
+    ]
+  },
+  "far_in_the_blue_sky": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/far_in_the_blue_sky",
+        "stream": true
+      }
+    ]
+  },
+  "ultimate_force": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/ultimate_force",
+        "stream": true
+      }
+    ]
+  },
+  "sambaland": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/sambaland",
+        "stream": true
+      }
+    ]
+  },
+  "cyberia": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/cyberia",
+        "stream": true
+      }
+    ]
+  },
+  "rose_quartz": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/rose_quartz",
+        "stream": true
+      }
+    ]
+  },
+  "aegleseeker": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/aegleseeker",
+        "stream": true
+      }
+    ]
+  },
+  "trauma": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/trauma",
+        "stream": true
+      }
+    ]
+  },
+  "supersonic_wayfarer": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/supersonic_wayfarer",
+        "stream": true
+      }
+    ]
+  },
+  "swampgator": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/swampgator",
+        "stream": true
+      }
+    ]
+  },
+  "arcana_eden": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/arcana_eden",
+        "stream": true
+      }
+    ]
+  },
+  "teto": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/teto",
+        "stream": true
+      }
+    ]
+  },
+  "forgoren": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/forgoren",
+        "stream": true
+      }
+    ]
+  },
+  "regret": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/regret",
+        "stream": true
+      }
+    ]
+  },
+  "whos_that_boy": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/whos_that_boy",
+        "stream": true
+      }
+    ]
+  },
+  "multivversum": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/multivversum",
+        "stream": true
+      }
+    ]
+  },
+  "stresstest": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/stresstest",
+        "stream": true
+      }
+    ]
+  },
+  "decoy": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/decoy",
+        "stream": true
+      }
+    ]
+  },
+  "decadance": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/decadance",
+        "stream": true
+      }
+    ]
+  },
+  "testify": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/testify",
+        "stream": true
+      }
+    ]
+  },
+  "icicle_stinger": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/icicle_stinger",
+        "stream": true
+      }
+    ]
+  },
+  "new_york_back_raise": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/new_york_back_raise",
+        "stream": true
+      }
+    ]
+  },
+  "potential": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/potential",
+        "stream": true
+      }
+    ]
+  },
+  "zloty_krol": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/zloty_krol",
+        "stream": true
+      }
+    ]
+  },
+  "rainshower": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/rainshower",
+        "stream": true
+      }
+    ]
+  },
+  "particle_colliter": {
+    "sounds": [
+      {
+        "name": "moddsniczego:discs/particle_colliter",
+        "stream": true
+      }
+    ]
+  }
+}
